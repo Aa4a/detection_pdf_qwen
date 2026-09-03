@@ -1,0 +1,12 @@
+PyMuPDF
+pikepdf
+opencv-python
+numpy
+Pillow
+pywin32
+openai
+fastapi
+uvicorn[standard]
+python-multipart
+minio
+requests
